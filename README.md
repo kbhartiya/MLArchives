@@ -6,11 +6,6 @@
 
 > # Results.
 
-## Linear Regression.
-
-## Kmeans Clustering.
-> ![Color Compression](https://github.com/kbhartiya/MLArchives/blob/master/Outputs/Color_comp.png)
-
 
 ## Support Vecor Machines. 
 > ![True Labels](https://github.com/kbhartiya/MLArchives/blob/master/Outputs/initial.png)
